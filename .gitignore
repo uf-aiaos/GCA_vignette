@@ -1,0 +1,10 @@
+Meta
+*.csl
+*.bib
+*.Rmd
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*.dat
